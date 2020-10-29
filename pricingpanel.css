@@ -1,0 +1,88 @@
+*{
+margin:0;
+padding:0;
+
+
+}
+
+
+body {
+background-color: #60a9ff;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+ol, li {
+
+ list-style:none;   
+}
+
+
+.panel{
+
+background-color: white;
+border-radius: 10px;
+padding: 15px 25px;
+width: 100%;
+max-width: 960px;
+display: flex;
+flex-direction: row;
+text-align: center;
+text-transform: uppercase;
+
+}
+
+.pricing-features-item {
+font-weight: 600;
+letter-spacing: 1px;
+font-size: 12px;
+line-height: 1.5;
+padding: 15px 0;
+border-top: 1px solid #e1f1ff;
+color: #348efe;
+
+}
+
+.pricing-price {
+color: #016ff9;
+display: block;
+font-size: 32px;
+font-weight: 700;
+
+}
+
+.pricing-plan {
+border-bottom: none;
+border-right: 1px solid #e1f1ff;
+padding: 25px 50px;
+}
+
+
+.pricing-plan {
+
+border-right: 1px solid #e1f1ff;
+   
+}
+
+.pricing-button {
+
+
+border: 1px solid #9dd1ff;
+border-radius: 10px;
+color: #348efe;
+display: inline-block;
+padding: 15px 35px;
+text-decoration: none;
+margin: 25px 0;
+
+
+}
+
+
+.pricing-button.is-featured {
+    
+background-color: #48aaff;
+color: white;
+}
