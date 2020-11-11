@@ -28,7 +28,7 @@ ol, li {
     width: 100%;
     max-width: 960px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
     text-transform: uppercase;
 
