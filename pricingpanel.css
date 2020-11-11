@@ -31,13 +31,15 @@ ol, li {
     flex-direction: row;
     text-align: center;
     text-transform: uppercase;
+  
+}
 
-.pricing-image {
+.pricing-img {
  width:30%  
 }
  
  
-}
+
 
 .pricing-features-item {
 font-weight: 600;
