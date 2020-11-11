@@ -32,10 +32,8 @@ ol, li {
     text-align: center;
     text-transform: uppercase;
 
-.pricing-img {
-    margin-bottom: 25px;
-    width:25%;
-    max-width: 100%;
+.pricing-image {
+ width:30%  
 }
  
  
